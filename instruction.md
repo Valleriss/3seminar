@@ -2,7 +2,7 @@
 
 ![картинка не открылась](picture.jpg)
 
-[ссылка на git](https://git-scm.com/downloads)
+[**Cсылка на git**](https://git-scm.com/downloads)
 
 ## ***Основные команды первого семинара***
 
